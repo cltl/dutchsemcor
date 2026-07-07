@@ -1,5 +1,7 @@
 # Annotated Data
 
+This repository contains Dutch corpus data that was sense annotated by students. For the machine annotated data see: [DutchSemCor](https://github.com/cltl/dutchsemcor_machine_annotations).
+
 - HUMAN
 - HUMAN-FILTERED
 - ALL-WORDS
