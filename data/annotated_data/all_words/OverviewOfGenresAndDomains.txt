@@ -1,0 +1,44 @@
+dpc-dns-001065-nl-sen	guides, manuals	768	768
+dpc-dns-001066-nl-sen	guides, manuals	1144	1144
+dpc-eli-000937-nl-sen	guides, manuals	1316	1316
+dpc-eli-000939-nl-sen	guides, manuals	983	983
+dpc-eli-000940-nl-sen	guides, manuals	1253	1253
+
+dpc-cam-001018-nl-sen	newspapers	1030	1030
+dpc-cam-001020-nl-sen	newspapers	1184	1184
+dpc-cam-001279-nl-sen	newspapers	1294	1294
+dpc-ind-001631-nl-sen	newspapers	2933	2933
+dpc-ind-001645-nl-sen	newspapers	2068	2068
+
+WR-P-P-I-0000000025	periodicals/magaines	1447	1447
+WR-P-P-I-0000000029	periodicals/magaines	132	132
+WR-P-P-I-0000000031	periodicals/magaines	131	131
+WR-P-P-I-0000000032	periodicals/magaines	135	135
+WR-P-P-I-0000000033	periodicals/magaines	1563	1563
+
+dpc-med-000674-nl-sen	periodicals/magaines	2199	2199
+dpc-med-000676-nl-sen	periodicals/magaines	2032	2032
+dpc-med-000677-nl-sen	periodicals/magaines	2242	2242
+dpc-qty-000931-nl-sen	periodicals/magaines	1838	1838
+dpc-qty-000934-nl-sen	periodicals/magaines	1713	1713
+
+
+dpc-fsz-000541-nl-sen	reports, surveys	346	346
+dpc-fsz-000543-nl-sen	reports, surveys	5937	5937
+dpc-gaz-001006-nl-sen	reports, surveys	3806	3806
+WR-P-P-L-0000000001	reports, surveys	13759	13759
+WR-P-P-L-0000000003	reports, surveys	6903	6903
+
+
+dpc-bmm-001080-nl-sen	website	354	354
+dpc-bmm-001085-nl-sen	website	954	954
+dpc-bmm-001086-nl-sen	website	1134	1134
+dpc-bmm-001087-nl-sen	website	1014	1014
+dpc-bmm-001088-nl-sen	website	665	665
+
+wiki-11	wikipedia	2428	2428
+wiki-138	wikipedia	1950	
+wiki-1400	wikipedia	1778	1778
+wiki-1541	wikipedia	1307	1307
+wiki-1652	wikipedia	1089	1089
+
