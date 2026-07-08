@@ -2,7 +2,7 @@
 
 The data in this repository is describe in the [DutchSemCor website](https://github.com/cltl/dutchwordnet.io).
 
-This repository contains the manual annotations for the DutchSemcor project:
+This repository contains the manual annotations for the DutchSemcor project. For the machine annotated data see: [DutchSemCor](https://github.com/cltl/dutchsemcor_machine_annotations).
 
 - [Human annotations](annotated-data.md)
 - [Derived data](derived-data.md)
